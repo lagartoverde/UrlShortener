@@ -1,0 +1,20 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "A Url Shortener Microservice API",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagartoverde/UrlShortener.git"
+  },
+  "author": "lagartoverde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lagartoverde/UrlShortener/issues"
+  },
+  "homepage": "https://github.com/lagartoverde/UrlShortener#readme"
+}
